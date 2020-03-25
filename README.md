@@ -1,0 +1,2 @@
+# akwasite
+django blog
